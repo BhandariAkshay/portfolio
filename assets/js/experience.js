@@ -13,7 +13,7 @@ const exp = [
   },
   {
     title: "Senior Consultant",
-    cardImage: "assets/images/experience-page/quation.jpg",
+    cardImage: "assets/images/experience-page/quation.JPG",
     place: "Quation Solutions Pvt. Ltd.",
     time: "(Apr, 23 - Jan, 24)",
     desp: "<li>Led a team of 6 Analysts and ensured on-time and error free deliverables in Campaign Analytics for Titan.<li>Provided valuable learning for future campaigns on the basis of deep dives and segmented analysis.</li><li>Reviewed the effectiveness of the campaigns & understood what elements of the campaign worked well or not so well.</li><li>Optimized SQL Queries on Amazon Redshift and enabled every team member to follow best practices on Redshift.</li><li>Automated a couple of Manual Tasks to save 15 Hrs. of manual work every month using Python.</li><li><b>Tech Stack:</b> SQL, Python, Amazon S3, Amazon RedShift</li>",
@@ -77,7 +77,7 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "GCP Certified Cloud Digital Leader",
-    cardImage: "assets/images/experience-page/gcp.jpg",
+    cardImage: "assets/images/experience-page/gcp.JPG",
     description: "A badge that demonstrates a foundational understanding of Google Cloud products and services.",
   },
   {
@@ -87,7 +87,7 @@ const volunteershipcards = [
   },
   {
     title: "Publication Certificate",
-    cardImage: "assets/images/experience-page/ijar.jpg",
+    cardImage: "assets/images/experience-page/ijar.JPG",
     description: "Research paper published for our final year project named Gesture Based Control System",
   },
 ];
